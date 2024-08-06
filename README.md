@@ -11,7 +11,8 @@ Hi there! 👋 I'm Kevin, a recent graduate from Columbia University Class of 20
 - I've won 3 hackathons! 💻
 - Own a (modded) e-bike and love cycling! 🚴
 
-👨‍💻 I'm currently working on expanding my skillset by expanding several of my projects to use popular AI features such as vector search powered by a vector database. I'm most excited to implement this for BoilerSearch, which will allow users to search for DJ sets by 'vibe' or mood of the music!
+### 👨‍💻 Current Project Goals
+I'm currently working on expanding my skillset by expanding several of my projects to use popular AI features such as vector search powered by a vector database. I'm most excited to implement this for BoilerSearch, which will allow users to search for DJ sets by 'vibe' or mood of the music!
 
 If you'd like to connect, feel free to send me a message on [LinkedIn](https://www.linkedin.com/in/kevinxmedina/).
 
