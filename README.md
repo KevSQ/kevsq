@@ -10,8 +10,8 @@ Hi there! 👋 I'm Kevin, a recent graduate from Columbia University Class of 20
 - I'm a music producer! 🎶
 - I've won 3 hackathons! 💻
 - Own a (modded) e-bike and love cycling! 🚴
-  
-I'm eager to join a team where I can continue to ideate and create confient, fast, and reliable systems that drive change. As a child of first-generation immigrants, I'm passionate about using my skills in data engineering and software engineering to build tools and infastructure that supports highi-impact solutions in our society today.
+
+👨‍💻 I'm currently working on expanding my skillset by expanding several of my projects to use popular AI features such as vector search powered by a vector database. I'm most excited to implement this for BoilerSearch, which will allow users to search for DJ sets by 'vibe' or mood of the music!
 
 If you'd like to connect, feel free to send me a message on [LinkedIn](https://www.linkedin.com/in/kevinxmedina/).
 
