@@ -10,10 +10,11 @@ Hi there! 👋 I'm Kevin, a recent graduate from Columbia University Class of 20
 - I'm a music producer! 🎶
 - I've won 3 hackathons! 💻
 - Own a (modded) e-bike and love cycling! 🚴
+  
+I'm eager to join a team where I can continue to ideate and create confient, fast, and reliable systems that drive change. As a child of first-generation immigrants, I'm passionate about using my skills in data engineering and software engineering to build tools and infastructure that supports highi-impact solutions in our society today.
 
-## 💡 What Drives Me
+If you'd like to connect, feel free to send me a message on [LinkedIn](https://www.linkedin.com/in/kevinxmedina/).
 
-I'm eager to join a team where I can continue to ideate and create confient, fast, and reliable systems that drive change. As a child of first-generation immigrants, I'm passionate about using my skills in ata engineering, mobile development, and software engineering to build tools and infastructure that supports highi-impact solutions in our society today.
 
 <h2 align="left">⚒️ Languages, Tools and Frameworks</h2>
 <div>These are the various languages, tools, and frameworks I'm most familiar with. </div>
@@ -44,14 +45,3 @@ I'm eager to join a team where I can continue to ideate and create confient, fas
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" height="40" alt="kubernetes logo"  />
 </div>
 
-### Contact Me
-
-Let's connect! If you have any questions or simply want to say hello, feel free to send me a message on:
-
-<div align="left" style="display: inline-block;">
-  <a href="https://linkedin.com/in/kevinxmedina/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
-  </a>
-</div>
-
-[LinkedIn](https://www.linkedin.com/in/kevinxmedina/)
