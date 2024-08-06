@@ -5,24 +5,15 @@
 Hi there! 👋 I'm Kevin, a recent graduate from Columbia University Class of 2024 with a passion for leveraging technology to solve real-world problems. With over a decade of experience in learning, ideating, and creating solutions to day-to-day challenges, I'm excited to bring my skills and enthusiasm to the world of software development.
 
 
-## 🚀 Fun Facts and Hobbies
+### 🚀 Fun Facts
 
 - I'm a music producer! 🎶
 - I've won 3 hackathons! 💻
 - Own a (modded) e-bike and love cycling! 🚴
 
-- Video Game Lover ❤️
-- DIY and 'Self-hosted' Enthusiast 👨‍💻
-- Beginner Camper 🏕️
-
 ## 💡 What Drives Me
 
 I'm eager to join a team where I can continue to ideate and create confient, fast, and reliable systems that drive change. As a child of first-generation immigrants, I'm passionate about using my skills in ata engineering, mobile development, and software engineering to build tools and infastructure that supports highi-impact solutions in our society today.
-
-<div align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=kevsq&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
-</div>
-
 
 <h2 align="left">⚒️ Languages, Tools and Frameworks</h2>
 <div>These are the various languages, tools, and frameworks I'm most familiar with. </div>
